@@ -1,0 +1,11 @@
+{
+  "name": "ES6_React_GraphQL_Template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "prisma",
+    "react",
+    "parcel"
+  ]
+}
