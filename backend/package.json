@@ -9,7 +9,7 @@
     "deploy": "prisma deploy"
   },
   "dependencies": {
-    "apollo-server": "^2.9.15",
+    "apollo-server": "^2.14.2",
     "babel-preset-env": "^1.7.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
